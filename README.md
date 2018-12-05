@@ -1,4 +1,2 @@
 # Opening-Range-Breakout
-```
-hello
-```
+
